@@ -2,6 +2,9 @@
 
 namespace App\Http\Livewire;
 
+use Illuminate\Contracts\Foundation\Application;
+use Illuminate\Contracts\View\Factory;
+use Illuminate\Contracts\View\View;
 use Livewire\Component;
 
 class Dashboard extends Component
@@ -16,7 +19,7 @@ class Dashboard extends Component
         $this->breadcrumbs = ['/' => 'Home'];
         $this->description = 'This is the dashboard livewire';
     }
-    public function render()
+    public function render(): Factory|View|Application
     {
         return view('livewire.dashboard');
     }
