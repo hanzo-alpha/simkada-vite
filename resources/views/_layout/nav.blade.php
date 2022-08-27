@@ -153,25 +153,25 @@
                 <div class="scroll">
                     <ul class="list-unstyled border-last-none">
                         <li class="mb-3 pb-3 border-bottom border-separator-light d-flex">
-                            <img src="/img/profile/profile-1.webp" class="me-3 sw-4 sh-4 rounded-xl align-self-center" alt="..." />
+                            <img src="{{ asset('build/assets/img/profile/profile-1.webp') }}" class="me-3 sw-4 sh-4 rounded-xl align-self-center" alt="..." />
                             <div class="align-self-center">
                                 <a href="#">Joisse Kaycee just sent a new comment!</a>
                             </div>
                         </li>
                         <li class="mb-3 pb-3 border-bottom border-separator-light d-flex">
-                            <img src="/img/profile/profile-2.webp" class="me-3 sw-4 sh-4 rounded-xl align-self-center" alt="..." />
+                            <img src="{{ asset('build/assets/img/profile/profile-2.webp') }}" class="me-3 sw-4 sh-4 rounded-xl align-self-center" alt="..." />
                             <div class="align-self-center">
                                 <a href="#">New order received! It is total $147,20.</a>
                             </div>
                         </li>
                         <li class="mb-3 pb-3 border-bottom border-separator-light d-flex">
-                            <img src="/img/profile/profile-3.webp" class="me-3 sw-4 sh-4 rounded-xl align-self-center" alt="..." />
+                            <img src="{{ asset('build/assets/img/profile/profile-3.webp') }}" class="me-3 sw-4 sh-4 rounded-xl align-self-center" alt="..." />
                             <div class="align-self-center">
                                 <a href="#">3 items just added to wish list by a user!</a>
                             </div>
                         </li>
                         <li class="pb-3 pb-3 border-bottom border-separator-light d-flex">
-                            <img src="/img/profile/profile-6.webp" class="me-3 sw-4 sh-4 rounded-xl align-self-center" alt="..." />
+                            <img src="{{ asset('build/assets/img/profile/profile-6.webp') }}" class="me-3 sw-4 sh-4 rounded-xl align-self-center" alt="..." />
                             <div class="align-self-center">
                                 <a href="#">Kirby Peters just sent a new message!</a>
                             </div>
