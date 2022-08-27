@@ -1,0 +1,84 @@
+{
+  "resources/assets/img/logo/logo-sky-light.svg": {
+    "file": "assets/logo-sky-light.427e891b.svg",
+    "src": "resources/assets/img/logo/logo-sky-light.svg"
+  },
+  "resources/assets/img/logo/logo-green-light.svg": {
+    "file": "assets/logo-green-light.5622f0ac.svg",
+    "src": "resources/assets/img/logo/logo-green-light.svg"
+  },
+  "resources/assets/img/logo/logo-light.svg": {
+    "file": "assets/logo-light.289f3039.svg",
+    "src": "resources/assets/img/logo/logo-light.svg"
+  },
+  "resources/assets/img/logo/logo-red-light.svg": {
+    "file": "assets/logo-red-light.2a7d0f1f.svg",
+    "src": "resources/assets/img/logo/logo-red-light.svg"
+  },
+  "resources/assets/img/background/background-blue.webp": {
+    "file": "assets/background-blue.a6364cd3.webp",
+    "src": "resources/assets/img/background/background-blue.webp"
+  },
+  "resources/assets/img/logo/logo-blue-light.svg": {
+    "file": "assets/logo-blue-light.a8795d6e.svg",
+    "src": "resources/assets/img/logo/logo-blue-light.svg"
+  },
+  "resources/assets/img/logo/logo-pink-light.svg": {
+    "file": "assets/logo-pink-light.c40db9a1.svg",
+    "src": "resources/assets/img/logo/logo-pink-light.svg"
+  },
+  "resources/assets/img/logo/logo-purple-light.svg": {
+    "file": "assets/logo-purple-light.cad4fda8.svg",
+    "src": "resources/assets/img/logo/logo-purple-light.svg"
+  },
+  "resources/assets/img/logo/logo-teal-light.svg": {
+    "file": "assets/logo-teal-light.c2268da9.svg",
+    "src": "resources/assets/img/logo/logo-teal-light.svg"
+  },
+  "resources/assets/img/logo/logo-lime-light.svg": {
+    "file": "assets/logo-lime-light.60c5e15c.svg",
+    "src": "resources/assets/img/logo/logo-lime-light.svg"
+  },
+  "resources/assets/img/logo/logo-blue-dark.svg": {
+    "file": "assets/logo-blue-dark.80a03e67.svg",
+    "src": "resources/assets/img/logo/logo-blue-dark.svg"
+  },
+  "resources/assets/img/logo/logo-green-dark.svg": {
+    "file": "assets/logo-green-dark.767554a1.svg",
+    "src": "resources/assets/img/logo/logo-green-dark.svg"
+  },
+  "resources/assets/img/logo/logo-red-dark.svg": {
+    "file": "assets/logo-red-dark.dfd435aa.svg",
+    "src": "resources/assets/img/logo/logo-red-dark.svg"
+  },
+  "resources/assets/img/logo/logo-pink-dark.svg": {
+    "file": "assets/logo-pink-dark.b59d3fa8.svg",
+    "src": "resources/assets/img/logo/logo-pink-dark.svg"
+  },
+  "resources/assets/img/logo/logo-purple-dark.svg": {
+    "file": "assets/logo-purple-dark.cea2aa68.svg",
+    "src": "resources/assets/img/logo/logo-purple-dark.svg"
+  },
+  "resources/assets/img/logo/logo-lime-dark.svg": {
+    "file": "assets/logo-lime-dark.49961cec.svg",
+    "src": "resources/assets/img/logo/logo-lime-dark.svg"
+  },
+  "resources/assets/img/logo/logo-teal-dark.svg": {
+    "file": "assets/logo-teal-dark.e8a9e9c5.svg",
+    "src": "resources/assets/img/logo/logo-teal-dark.svg"
+  },
+  "resources/assets/img/logo/logo-sky-dark.svg": {
+    "file": "assets/logo-sky-dark.4b69e1d6.svg",
+    "src": "resources/assets/img/logo/logo-sky-dark.svg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.58918c51.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/assets/sass/styles.scss": {
+    "file": "assets/styles.65ab5bd9.css",
+    "src": "resources/assets/sass/styles.scss",
+    "isEntry": true
+  }
+}

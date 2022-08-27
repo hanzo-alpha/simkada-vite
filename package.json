@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite build && vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "@defstudio/vite-livewire-plugin": "^0.2.6",
+        "@popperjs/core": "^2.11.6",
+        "alpinejs": "^3.10.3",
+        "axios": "^0.21",
+        "bootstrap": "^5.2.0",
+        "laravel-vite-plugin": "^0.5.4",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "sass": "^1.32.13",
+        "vite": "^3.0.9",
+        "vite-plugin-static-copy": "^0.8.0"
+    },
+    "dependencies": {
+        "moment": "^2.29.4"
+    }
+}
