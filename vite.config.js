@@ -62,18 +62,6 @@ export default defineConfig({
         }),
     ],
     server: detectServerConfig(host)
-    /*resolve: {
-        alias: {
-            '~bootstrap': resolve(__dirname, 'node_modules/bootstrap'),
-            '~vendorcss': resolve(__dirname, 'resources/css/vendor'),
-            '~vendorjs': resolve(__dirname, 'resources/js'),
-            '~font': resolve(__dirname, 'resources/font'),
-            '~icon': resolve(__dirname, 'resources/icon'),
-            '~image': resolve(__dirname, 'resources/img'),
-            '~json': resolve(__dirname, 'resources/json'),
-            '~themesass': resolve(__dirname, 'resources/sass'),
-        }
-    },*/
 });
 
 function detectServerConfig(host) {
