@@ -19,6 +19,7 @@ class Dashboard extends Component
         $this->breadcrumbs = ['/' => 'Home'];
         $this->description = 'This is the dashboard livewire';
     }
+
     public function render(): Factory|View|Application
     {
         return view('livewire.dashboard');
